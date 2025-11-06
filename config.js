@@ -1,2 +1,3 @@
-VITE_BACKEND_URL=https://digital-shop-back-end.vercel.app
+export const serverUrl = import.meta.env.VITE_BACKEND_URL;
+
 
