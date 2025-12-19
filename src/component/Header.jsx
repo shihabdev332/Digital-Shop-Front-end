@@ -1,5 +1,5 @@
 import logo from "../assets/images/logo.png";
-import Container from "./container";
+import Container from "./Container";
 import SearchInput from "./SearchInput";
 import { FaUserAlt } from "react-icons/fa";
 import { HiOutlineMenu } from "react-icons/hi";

@@ -1,5 +1,5 @@
 import Header from "./component/Header";
-import Container from "./component/container";
+import Container from "./component/Container";
 import Banner from "./component/Banner"
 import Sell from "./component/Sell";
 import NewArrival from "./component/NewArrival";
